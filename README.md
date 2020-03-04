@@ -11,3 +11,8 @@ This is consist of four script and anyone could understand Amazon Personalize ea
 - 3_create_campaign.py:	Create campaign
 - 4_create_recommendation.py: get_recommendation, get_personalized_ranking
 - 5_create_event.py: Put events
+
+
+## Reference
+- Boto3: https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/personalize.html
+- MovieLens: https://grouplens.org/datasets/movielens/

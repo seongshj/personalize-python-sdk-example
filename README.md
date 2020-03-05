@@ -17,4 +17,5 @@ This is consist of following scripts, and it might be helps to test and  underst
 ## Reference
 - Boto3: https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/personalize.html
 - MovieLens: https://grouplens.org/datasets/movielens/
+- https://github.com/aws-samples/amazon-personalize-samples
 - https://github.com/chrisking/PersonalizePOC
